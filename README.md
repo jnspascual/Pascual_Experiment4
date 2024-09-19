@@ -121,6 +121,7 @@ present different (i) data frames; and (ii) visuals using the dataset given.
         plot_scores(df, 'Track', 'GEAS', hue='Gender', title='GEAS Scores by Track and Gender')
         
         #Plot for the GEAS scores by Hometown and Gender
+   
         plot_scores(df, 'Hometown', 'GEAS', hue='Gender', title='GEAS Scores by Hometown and Gender')
         
         #Plot for the Communication scores by Track and Gender
@@ -128,3 +129,6 @@ present different (i) data frames; and (ii) visuals using the dataset given.
         
         #Plot for the Communication scores by Hometown and Gender
         plot_scores(df, 'Hometown', 'Communication', hue='Gender', title='Communication Scores by Hometown and Gender')
+
+**Progress Tracker:**
+September 19. 2024: Created a repository, created a Python code for the given problems, and submitted through Canvas.
